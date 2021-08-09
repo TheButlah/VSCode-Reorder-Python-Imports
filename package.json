@@ -19,7 +19,8 @@
         "Other"
     ],
     "engines": {
-        "vscode": "^1.44.0"
+        "vscode": "^1.44.0",
+        "node": "^14.17.4"
     },
     "activationEvents": [
         "onLanguage:python",
